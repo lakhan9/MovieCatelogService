@@ -5,6 +5,7 @@ public class Movie {
 	
 	private String name;
 	private String movieId;
+	private String actor;
 	public String getName() {
 		return name;
 	}
